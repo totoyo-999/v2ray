@@ -42,18 +42,18 @@
 
 # 脚本说明
 
-[V2Ray 一键安装脚本](https://github.com/233boy/v2ray/wiki/V2Ray%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC)
+[V2Ray 一键安装脚本](https://github.com/momo/v2ray/wiki/V2Ray%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC)
 
 # 搭建教程
 
-[V2Ray搭建详细图文教程](https://github.com/233boy/v2ray/wiki/V2Ray%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B)
+[V2Ray搭建详细图文教程](https://github.com/momo/v2ray/wiki/V2Ray%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B)
 
 # 帮助
 
 使用: `v2ray help`
 
 ```
-V2Ray script v4.21 by 233boy
+V2Ray script v4.21 by momo
 Usage: v2ray [options]... [args]...
 
 基本:
@@ -117,6 +117,6 @@ Usage: v2ray [options]... [args]...
    h, help                                         显示此帮助界面
 
 谨慎使用 del, ddel, 此选项会直接删除配置; 无需确认
-反馈问题) https://github.com/233boy/v2ray/issues
-文档(doc) https://233boy.com/v2ray/v2ray-script/
+反馈问题) https://github.com/momo/v2ray/issues
+文档(doc) https://momo.com/v2ray/v2ray-script/
 ```
