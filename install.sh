@@ -1,7 +1,7 @@
 #!/bin/bash
 
 author=momo
-# github=https://github.com/momo/v2ray
+# github=https://github.com/totoyo-999/v2ray
 
 # bash fonts colors
 red='\e[31m'
@@ -239,7 +239,7 @@ pass_args() {
     while [[ $# -gt 0 ]]; do
         case $1 in
         online)
-            err "如果想要安装旧版本, 请转到: https://github.com/momo/v2ray/tree/old"
+            err "如果想要安装旧版本, 请转到: https://github.com/totoyo-999/v2ray/tree/old"
             ;;
         -f | --core-file)
             [[ -z $2 ]] && {

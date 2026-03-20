@@ -1,7 +1,7 @@
 #!/bin/bash
 
 author=momo
-# github=https://github.com/momo/v2ray
+# github=https://github.com/totoyo-999/v2ray
 
 # bash fonts colors
 red='\e[31m'
