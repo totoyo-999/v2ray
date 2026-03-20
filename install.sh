@@ -1,6 +1,6 @@
 #!/bin/bash
 
-author=momo
+author=totoyo-999
 # github=https://github.com/totoyo-999/v2ray
 
 # bash fonts colors
